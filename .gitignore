@@ -1,0 +1,11 @@
+node_modules
+dist
+src-tauri/target
+Asterism/node_modules
+Asterism/dist
+Asterism/src-tauri/target
+Asterism/src-tauri/target*
+
+.env
+.env.*
+*.log
