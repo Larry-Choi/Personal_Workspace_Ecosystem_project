@@ -5,7 +5,18 @@ Asterism/node_modules
 Asterism/dist
 Asterism/src-tauri/target
 Asterism/src-tauri/target*
+UnderdeskMusic/node_modules
+UnderdeskMusic/dist
+UnderdeskMusic/dist-ssr
+UnderdeskMusic/src-tauri/target
+UnderdeskMusic/src-tauri/target*
+underleaf/node_modules
+underleaf/dist
+underleaf/dist-ssr
+underleaf/src-tauri/target
+underleaf/src-tauri/target*
 
 .env
 .env.*
+*.local
 *.log
